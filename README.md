@@ -1,1 +1,3 @@
-# new-file
+# GitHub Practice
+
+Learning GitHub without installing Git.
